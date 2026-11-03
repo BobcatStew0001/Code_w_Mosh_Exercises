@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Code_W_Mosh_Exercises/1.0.0": {
+        "runtime": {
+          "Code_W_Mosh_Exercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Code_W_Mosh_Exercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

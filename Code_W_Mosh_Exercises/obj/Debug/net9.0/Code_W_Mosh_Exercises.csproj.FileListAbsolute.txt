@@ -1,0 +1,14 @@
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\bin\Debug\net9.0\Code_W_Mosh_Exercises.exe
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\bin\Debug\net9.0\Code_W_Mosh_Exercises.deps.json
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\bin\Debug\net9.0\Code_W_Mosh_Exercises.runtimeconfig.json
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\bin\Debug\net9.0\Code_W_Mosh_Exercises.dll
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\bin\Debug\net9.0\Code_W_Mosh_Exercises.pdb
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\obj\Debug\net9.0\Code_W_Mosh_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\obj\Debug\net9.0\Code_W_Mosh_Exercises.AssemblyInfoInputs.cache
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\obj\Debug\net9.0\Code_W_Mosh_Exercises.AssemblyInfo.cs
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\obj\Debug\net9.0\Code_W_Mosh_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\obj\Debug\net9.0\Code_W_Mosh_Exercises.dll
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\obj\Debug\net9.0\refint\Code_W_Mosh_Exercises.dll
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\obj\Debug\net9.0\Code_W_Mosh_Exercises.pdb
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\obj\Debug\net9.0\Code_W_Mosh_Exercises.genruntimeconfig.cache
+C:\Users\brown\OneDrive\Documents\Code_Mosh\Code_W_Mosh_Exercises\Code_W_Mosh_Exercises\obj\Debug\net9.0\ref\Code_W_Mosh_Exercises.dll
